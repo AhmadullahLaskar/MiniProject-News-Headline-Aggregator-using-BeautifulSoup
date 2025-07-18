@@ -27,9 +27,11 @@ With the explosion of online news and job content, it's challenging to manually 
 
 ## 📊 Performance
 
--JS Support- No
--Speed- Fast
--Use Case- Static website(e.g BBC, Books)
+-JS Support :No
+
+-Speed   :Fast
+
+-Use Case : Static website(e.g BBC, Books)
 
 
 
