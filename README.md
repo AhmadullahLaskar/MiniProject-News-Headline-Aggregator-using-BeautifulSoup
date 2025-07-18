@@ -27,9 +27,9 @@ With the explosion of online news and job content, it's challenging to manually 
 
 ## 📊 Performance
 
-JS Support- No
-Speed- Fast
-Use Case- Static website(e.g BBC, Books)
+-JS Support- No
+-Speed- Fast
+-Use Case- Static website(e.g BBC, Books)
 
 
 
@@ -37,21 +37,29 @@ Use Case- Static website(e.g BBC, Books)
 
 1.BeautifulSoup
    -BeautifulSoup for static HTML parsing
-   https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ick4ivqm1i5hew30jzo.png
+   <img width="1004" height="621" alt="Screenshot 2025-07-18 211536" src="https://github.com/user-attachments/assets/c0c61145-3d82-4a8b-aae9-50758efdfda7" />
+
    
   
 2.Selenium
-  - Selenium for dynamic JavaScript content
-   https://www.vagdevitechnologies.com/wp-content/uploads/2024/05/Selenium-image.png
+   -Selenium for dynamic JavaScript content
+   <img width="1015" height="358" alt="Screenshot 2025-07-18 211602" src="https://github.com/user-attachments/assets/e69c4dab-0838-4275-9319-434039c2cbaf" />
+
   
 3.Scrapy
   -Scrapy for modular, scalable scraping
-  https://miro.medium.com/v2/resize:fit:1400/1*7KVe2szj1rjt1_Jlmdznkw.png
+  <img width="822" height="317" alt="Screenshot 2025-07-18 211549" src="https://github.com/user-attachments/assets/408ec426-bfcf-4924-9fe7-09bafd1de9d1" />
+
+ 
 
 ## 📸 Demonstrations:
+1. O/P on colab :
 <img width="1065" height="611" alt="Screenshot 2025-07-18 143608" src="https://github.com/user-attachments/assets/1524cb1d-639c-4d58-8780-f54a04b3c88d" />
 
-📸 _Insert flow diagram or architecture image here from ppt/report_
+<img width="1171" height="614" alt="Screenshot 2025-07-18 211804" src="https://github.com/user-attachments/assets/b7070460-d8c2-41ab-aad2-821b6380bd33" />
+<img width="1067" height="595" alt="Screenshot 2025-07-18 211815" src="https://github.com/user-attachments/assets/e97915f4-e66b-4097-b178-27a43ef71ba9" />
+
+
 
 ## 🛠️ Tech Stack
 
