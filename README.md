@@ -33,20 +33,23 @@ Use Case- Static website(e.g BBC, Books)
 
 
 
-## ⚙️ System Architecture
+## ⚙️Tools
 
-1.Web Scraping Tools
+1.BeautifulSoup
    -BeautifulSoup for static HTML parsing
-   -Selenium for dynamic JavaScript content
-   -Scrapy for modular, scalable scraping
-2.Target Sites
-  -BBC News → <h3 class="gs-c-promo-heading__title">
-  -Indeed Jobs → class="job_seen_beacon"
-  -BooksToScrape → article.product_pod
-3.Output
-  -Saved to .csv files using Python's CSV module
-4.Display
-  -Printed to console or exported to a dataset
+   https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ick4ivqm1i5hew30jzo.png
+   
+  
+2.Selenium
+  - Selenium for dynamic JavaScript content
+   https://www.vagdevitechnologies.com/wp-content/uploads/2024/05/Selenium-image.png
+  
+3.Scrapy
+  -Scrapy for modular, scalable scraping
+  https://miro.medium.com/v2/resize:fit:1400/1*7KVe2szj1rjt1_Jlmdznkw.png
+
+## 📸 Demonstrations:
+<img width="1065" height="611" alt="Screenshot 2025-07-18 143608" src="https://github.com/user-attachments/assets/1524cb1d-639c-4d58-8780-f54a04b3c88d" />
 
 📸 _Insert flow diagram or architecture image here from ppt/report_
 
@@ -54,7 +57,7 @@ Use Case- Static website(e.g BBC, Books)
 
 - Language: Python
 - Libraries:BeautifulSoup, Requests
-- Visualization: Edge WebDriver / ChromeDriver
+- Visualization: Edge WebDriver / ChromeDriver / Geckodriver
 - Platform: Google Colab
 
 
